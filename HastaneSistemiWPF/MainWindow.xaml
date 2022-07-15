@@ -1,0 +1,16 @@
+﻿<Window x:Class="HastaneSistemiWPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:HastaneSistemiWPF"
+        mc:Ignorable="d"
+        Title="Hastane Sistemi"  Width="1920" Height="1080" WindowStartupLocation="CenterScreen" WindowState="Maximized">
+    <Grid Background="#FF364F6B" Margin="0,0,0,-74">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+    </Grid>
+</Window>
